@@ -2,6 +2,5 @@
 class Dog
   @name = name
 end
-def name
-  return @name
-end
+
+Dog = 
