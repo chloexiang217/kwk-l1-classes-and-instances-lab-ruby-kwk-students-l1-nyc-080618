@@ -4,6 +4,6 @@ class Dog
   @name = name
 end
 
-"fido" = Dog.new
-"snoopy" = Dog.new
+fido = Dog.new
+snoopy = Dog.new
 "lassie" = Dog.new
