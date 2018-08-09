@@ -4,3 +4,5 @@ class Dog
   @name = name
 end
 "fido" = name.new
+"snoopy" = name.new
+"lassie" = name.new 
